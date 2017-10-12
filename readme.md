@@ -14,6 +14,8 @@ if you need to install conda see https://conda.io/miniconda.html
 run `jupyter notebook` and open one of the ipynb files in the browser 
 window that opens
 
+more details on running jupyter https://jupyter.readthedocs.io/en/latest/running.html
+
 
 ## sources
 
